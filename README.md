@@ -1,5 +1,5 @@
 # resource-monitoring-kernel-module
-a reousrce monitoring kernel module which displays the amount of  memory (in kb) and CPU (in %) utilized  by each process 
+a resource monitoring kernel module which displays the amount of  memory (in kb) and CPU (in %) utilized  by each process 
 along with the respective process ID and process name and also shows the total amount of memory utilized by all processes
 
 
